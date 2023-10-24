@@ -13,6 +13,7 @@ public class Main {
         }
 
         b.affiche();
+        System.out.println("helo");
 
     }
 }
