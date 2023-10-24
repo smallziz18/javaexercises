@@ -11,7 +11,7 @@ public class Main {
         } else {
             System.out.println("coincide pas");
         }
-        ;
+
         b.affiche();
 
     }
