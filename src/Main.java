@@ -1,5 +1,6 @@
 import com.point.Point;
 
+
 public class Main {
     public static void main(String[] args) {
         Point a= new Point(2.0,3.0);
@@ -12,6 +13,6 @@ public class Main {
         }
         ;
         b.affiche();
-        fuck mr Dong;
+
     }
 }
