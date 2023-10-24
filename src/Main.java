@@ -12,5 +12,6 @@ public class Main {
         }
         ;
         b.affiche();
+        fuck mr Dong;
     }
 }
