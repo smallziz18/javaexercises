@@ -50,5 +50,7 @@ public class CompteBancaire {
     public void setPrenom(String prenom) {
         this.prenom = prenom;
     }
+
+
+
 }
-public void setSolde(double solde){this.solde=solde;}
