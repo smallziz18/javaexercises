@@ -51,3 +51,4 @@ public class CompteBancaire {
         this.prenom = prenom;
     }
 }
+public void setSolde(double solde){this.solde=solde;}
